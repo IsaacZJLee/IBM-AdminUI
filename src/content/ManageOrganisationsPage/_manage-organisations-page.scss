@@ -1,0 +1,6 @@
+@import './mixins.scss';
+@import './overrides.scss';
+
+.bx--tabs--scrollable .bx--tabs--scrollable__nav-link {
+    width: 20rem;
+}
